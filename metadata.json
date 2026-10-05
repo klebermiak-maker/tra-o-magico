@@ -1,0 +1,6 @@
+{
+  "name": "Traço Mágico: Aventura da Letra Cursiva",
+  "description": "Jogo educativo e divertido de caligrafia cursiva para crianças com traçado guiado passo a passo, barra de progresso em tempo real, estrelas de pontuação e desafios de reconhecimento de formas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

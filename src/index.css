@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Fredoka', system-ui, -apple-system, sans-serif;
+  }
+}
+
+.font-cursive {
+  font-family: 'Caveat', cursive;
+}
+
+.font-kids {
+  font-family: 'Fredoka', cursive, sans-serif;
+}
